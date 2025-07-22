@@ -46,6 +46,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=khushi7983&theme=tokyonight&hide_border=true" />
 </p>
 
+### 🔥 GitHub Activity & Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khushi7983&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak"/>
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushi7983&theme=react-dark&bg_color=1a1b27&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
 ---
 
 ### 🏆 GitHub Trophies
