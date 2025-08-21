@@ -61,22 +61,6 @@
 </p>
 
 ---
-
-## ⌛ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-### 👩‍💻 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=khushi7983&label=Profile%20Views&color=6&icon=5&pretty=true" />
-  ![Profile views](https://komarev.com/ghpvc/?username=khushi7983)
-
-</p>
-![Profile views](https://visitcount.itsvg.in/api?id=khushi7983&label=Profile%20Views&color=12&icon=5&pretty=true)
-![Profile views](https://komarev.com/ghpvc/?username=khushi7983&color=blue)
-
-
 ### 🤝 Connect with Me
 
 <p align="left">
